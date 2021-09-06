@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projets\\BFME\\BFMER_TestTask\\TestTask\\Source\\TestTask\\TestTask.Build.cs",
+		"C:\\Projets\\BFME\\BFMER_TestTask\\TestTask\\Source\\TestTask.Target.cs",
+		"C:\\Projets\\BFME\\BFMER_TestTask\\TestTask\\Source\\TestTaskEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestTask.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3A2CC306-0C7C-4BDA-BC2A-C6CA3F0702EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestTask.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestTaskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{213D163C-7970-4E7C-A766-709269D79338}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestTask">
+      <UniqueIdentifier>{DC757815-ED8C-43A9-9302-0B271D27F578}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestTask\TestTask.Build.cs">
+      <Filter>Source\TestTask</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestTask\TestTask.cpp">
+      <Filter>Source\TestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask\TestTask.h">
+      <Filter>Source\TestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTask\TestTaskCharacter.cpp">
+      <Filter>Source\TestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask\TestTaskCharacter.h">
+      <Filter>Source\TestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTask\TestTaskGameMode.cpp">
+      <Filter>Source\TestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask\TestTaskGameMode.h">
+      <Filter>Source\TestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTask\TestTaskPlayerController.cpp">
+      <Filter>Source\TestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTask\TestTaskPlayerController.h">
+      <Filter>Source\TestTask</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

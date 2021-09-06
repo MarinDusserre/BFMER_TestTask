@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestTask",
+			"Path": "C:\\Projets\\BFME\\BFMER_TestTask\\TestTask\\Source\\TestTask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestTaskEditor",
+			"Path": "C:\\Projets\\BFME\\BFMER_TestTask\\TestTask\\Source\\TestTaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
